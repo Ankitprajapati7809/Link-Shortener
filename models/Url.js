@@ -8,5 +8,3 @@ const urlSchema = new mongoose.Schema({
 });
 
 module.exports = mongoose.model('Url', urlSchema);
-// changes in url.js again  
-// new commit for master
